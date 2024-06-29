@@ -3,6 +3,8 @@ description: >-
   A testing helper package to optimize chain style programming in test.
   It's a peer of the modifier package.
 version: 0.1.0
+homepage: https://github.com/treeinfra/modifier-test
+repository: https://github.com/treeinfra/modifier-test
 environment: {sdk: ">=3.4.3 <4.0.0", flutter: ">=3.22.0"}
 
 dependencies:
