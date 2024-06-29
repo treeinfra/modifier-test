@@ -1,0 +1,10 @@
+name: modifier_test_example
+description: A example of using the modifier_test package.
+version: 0.0.0 # The example package version will always be zero.
+environment: {sdk: ">=3.4.3 <4.0.0", flutter: ">=3.22.0"}
+
+dependencies:
+  flutter: {sdk: flutter}
+
+dev_dependencies:
+  flutter_test: {sdk: flutter}
