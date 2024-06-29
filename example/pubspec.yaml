@@ -8,3 +8,4 @@ dependencies:
 
 dev_dependencies:
   flutter_test: {sdk: flutter}
+  lintall: ^0.1.0
