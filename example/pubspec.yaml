@@ -5,7 +5,9 @@ environment: {sdk: ">=3.4.3 <4.0.0", flutter: ">=3.22.0"}
 
 dependencies:
   flutter: {sdk: flutter}
+  modifier: ^0.2.0
 
 dev_dependencies:
   flutter_test: {sdk: flutter}
   lintall: ^0.1.0
+  modifier_test: {path: ../}
